@@ -18,7 +18,7 @@ public class MaiorDeTresNumeros{
 			}else if ( y > x && y > z){
 				System.out.println("O segundo número digitado é o maior");
 				}else if ( z > x && z > y){
-					System.out.println("O segundo número digitado é o maior");
+					System.out.println("O terceiro número digitado é o maior");
 					}else {
 						System.out.println("Números iguais foram inseridos");
 					}
