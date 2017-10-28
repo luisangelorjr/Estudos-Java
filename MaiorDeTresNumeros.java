@@ -13,11 +13,11 @@ public class MaiorDeTresNumeros{
 		y = in.nextInt();
 		z = in.nextInt();
 		
-		if ( x > y && x > z);{
+		if ( x > y && x > z){
 		System.out.println("O primeiro número digitado é o maior");
-			}else if ( y > x && y > z);{
+			}else if ( y > x && y > z){
 				System.out.println("O segundo número digitado é o maior");
-				}else if ( z > x && z > y);{
+				}else if ( z > x && z > y){
 					System.out.println("O segundo número digitado é o maior");
 					}else {
 						System.out.println("Números iguais foram inseridos");
