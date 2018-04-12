@@ -7,6 +7,6 @@ public class Addition {
 
 		sum=a+b;
 
-		System.out.println ("Soma de A e B = " sum);
+		System.out.println ("Soma de A e B = " + sum);
 	}
 }
